@@ -155,7 +155,9 @@ Through this project, I strengthened my ability to:
 ## 👤 Author
 
 **B. Gowtham**
+
 First-Year B.Tech (Artificial Intelligence) Student
+
 SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
