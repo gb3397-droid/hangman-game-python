@@ -162,7 +162,7 @@ SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
 
-✉️ Email: 
+**LinkedIN:** https://www.linkedin.com/in/gowtham-balu-3a5763377
 
 ---
 
